@@ -4,7 +4,9 @@
 This repo serves to automatically capture and process a transcript of the podcast, which would be useful to   
 - provide a community feedback loop to the [Godot Engine](https://github.com/godotengine/godot) project  
 - Improvement proposals,   
-- context to the issues discussed on the podcast  
+- context to the issues discussed on the podcast
+
+Below you will find the proposed workflow and below that a sample of a processed episode
 
 ## Proposed workflow   
 ### 1. Getting Media   
@@ -22,8 +24,10 @@ OR - [Youtube API](https://developers.google.com/youtube/v3): get auto generated
 ### 4. Posting ### 
 4. [Githubs API](https://docs.github.com/en/rest): publish it to the repo as a discussion and opening issues for anything discussed  
 
-# Sample
-Process using streamlabs to capture transcript and ChatGPT4 to create .md 
+---
+
+## Sample of a processed episode
+Processed using streamlabs to capture transcript and ChatGPT4 to create generate .md 
 <details>
  <summary>Prompt used</summary>
 I have an audio transcript.
