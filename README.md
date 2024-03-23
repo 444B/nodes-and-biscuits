@@ -6,7 +6,7 @@ This repo serves to automatically capture and process a transcript of the podcas
 - Improvement proposals,   
 - context to the issues discussed on the podcast
 
-Below you will find the proposed workflow and below that a [sample](https://github.com/444B/nodes-and-biscuits-forum/edit/main/README.md#nodes-and-biscuits-a-dive-into-godot-plugins-and-game-development-insights) of a processed episode
+Below you will find the proposed workflow and below that a [sample](https://github.com/444B/nodes-and-biscuits-forum/blob/main/README.md#nodes-and-biscuits-a-dive-into-godot-plugins-and-game-development-insights) of a processed episode
 
 
 # Proposed Workflow for Podcast Processing
